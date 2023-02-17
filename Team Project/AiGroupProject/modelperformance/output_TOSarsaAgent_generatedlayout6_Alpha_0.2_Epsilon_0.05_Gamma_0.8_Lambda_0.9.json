@@ -1,0 +1,502 @@
+[
+    {
+        "TrainingEpisodeNumber": 1,
+        "TotalAverageReward": 507.0,
+        "RewardforEpisode": 507.0
+    },
+    {
+        "TrainingEpisodeNumber": 2,
+        "TotalAverageReward": 3.0,
+        "RewardforEpisode": -501.0
+    },
+    {
+        "TrainingEpisodeNumber": 3,
+        "TotalAverageReward": 161.66666666666666,
+        "RewardforEpisode": 479.0
+    },
+    {
+        "TrainingEpisodeNumber": 4,
+        "TotalAverageReward": 220.0,
+        "RewardforEpisode": 395.0
+    },
+    {
+        "TrainingEpisodeNumber": 5,
+        "TotalAverageReward": 267.4,
+        "RewardforEpisode": 457.0
+    },
+    {
+        "TrainingEpisodeNumber": 6,
+        "TotalAverageReward": 302.6666666666667,
+        "RewardforEpisode": 479.0
+    },
+    {
+        "TrainingEpisodeNumber": 7,
+        "TotalAverageReward": 327.85714285714283,
+        "RewardforEpisode": 479.0
+    },
+    {
+        "TrainingEpisodeNumber": 8,
+        "TotalAverageReward": 347.25,
+        "RewardforEpisode": 483.0
+    },
+    {
+        "TrainingEpisodeNumber": 9,
+        "TotalAverageReward": 382.8888888888889,
+        "RewardforEpisode": 668.0
+    },
+    {
+        "TrainingEpisodeNumber": 10,
+        "TotalAverageReward": 393.1,
+        "RewardforEpisode": 485.0
+    },
+    {
+        "TrainingEpisodeNumber": 11,
+        "TotalAverageReward": 310.54545454545456,
+        "RewardforEpisode": -515.0
+    },
+    {
+        "TrainingEpisodeNumber": 12,
+        "TotalAverageReward": 327.25,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 13,
+        "TotalAverageReward": 341.53846153846155,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 14,
+        "TotalAverageReward": 353.64285714285717,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 15,
+        "TotalAverageReward": 364.0,
+        "RewardforEpisode": 509.0
+    },
+    {
+        "TrainingEpisodeNumber": 16,
+        "TotalAverageReward": 373.1875,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 17,
+        "TotalAverageReward": 380.47058823529414,
+        "RewardforEpisode": 497.0
+    },
+    {
+        "TrainingEpisodeNumber": 18,
+        "TotalAverageReward": 387.27777777777777,
+        "RewardforEpisode": 503.0
+    },
+    {
+        "TrainingEpisodeNumber": 19,
+        "TotalAverageReward": 393.2105263157895,
+        "RewardforEpisode": 500.0
+    },
+    {
+        "TrainingEpisodeNumber": 20,
+        "TotalAverageReward": 398.4,
+        "RewardforEpisode": 497.0
+    },
+    {
+        "TrainingEpisodeNumber": 21,
+        "TotalAverageReward": 403.4761904761905,
+        "RewardforEpisode": 505.0
+    },
+    {
+        "TrainingEpisodeNumber": 22,
+        "TotalAverageReward": 408.0,
+        "RewardforEpisode": 503.0
+    },
+    {
+        "TrainingEpisodeNumber": 23,
+        "TotalAverageReward": 411.7826086956522,
+        "RewardforEpisode": 495.0
+    },
+    {
+        "TrainingEpisodeNumber": 24,
+        "TotalAverageReward": 415.75,
+        "RewardforEpisode": 507.0
+    },
+    {
+        "TrainingEpisodeNumber": 25,
+        "TotalAverageReward": 419.24,
+        "RewardforEpisode": 503.0
+    },
+    {
+        "TrainingEpisodeNumber": 26,
+        "TotalAverageReward": 422.34615384615387,
+        "RewardforEpisode": 500.0
+    },
+    {
+        "TrainingEpisodeNumber": 27,
+        "TotalAverageReward": 425.7037037037037,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 28,
+        "TotalAverageReward": 392.42857142857144,
+        "RewardforEpisode": -506.0
+    },
+    {
+        "TrainingEpisodeNumber": 29,
+        "TotalAverageReward": 396.51724137931035,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 30,
+        "TotalAverageReward": 400.3333333333333,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 31,
+        "TotalAverageReward": 403.83870967741933,
+        "RewardforEpisode": 509.0
+    },
+    {
+        "TrainingEpisodeNumber": 32,
+        "TotalAverageReward": 407.25,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 33,
+        "TotalAverageReward": 410.3939393939394,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 34,
+        "TotalAverageReward": 413.4117647058824,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 35,
+        "TotalAverageReward": 416.2,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 36,
+        "TotalAverageReward": 418.8333333333333,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 37,
+        "TotalAverageReward": 421.3243243243243,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 38,
+        "TotalAverageReward": 423.7105263157895,
+        "RewardforEpisode": 512.0
+    },
+    {
+        "TrainingEpisodeNumber": 39,
+        "TotalAverageReward": 425.79487179487177,
+        "RewardforEpisode": 505.0
+    },
+    {
+        "TrainingEpisodeNumber": 40,
+        "TotalAverageReward": 427.975,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 41,
+        "TotalAverageReward": 429.8536585365854,
+        "RewardforEpisode": 505.0
+    },
+    {
+        "TrainingEpisodeNumber": 42,
+        "TotalAverageReward": 431.64285714285717,
+        "RewardforEpisode": 505.0
+    },
+    {
+        "TrainingEpisodeNumber": 43,
+        "TotalAverageReward": 433.06976744186045,
+        "RewardforEpisode": 493.0
+    },
+    {
+        "TrainingEpisodeNumber": 44,
+        "TotalAverageReward": 434.8863636363636,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 45,
+        "TotalAverageReward": 436.5777777777778,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 46,
+        "TotalAverageReward": 438.0652173913044,
+        "RewardforEpisode": 505.0
+    },
+    {
+        "TrainingEpisodeNumber": 47,
+        "TotalAverageReward": 439.6595744680851,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 48,
+        "TotalAverageReward": 440.9583333333333,
+        "RewardforEpisode": 502.0
+    },
+    {
+        "TrainingEpisodeNumber": 49,
+        "TotalAverageReward": 442.38775510204084,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 50,
+        "TotalAverageReward": 443.76,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 51,
+        "TotalAverageReward": 445.0,
+        "RewardforEpisode": 507.0
+    },
+    {
+        "TrainingEpisodeNumber": 52,
+        "TotalAverageReward": 446.25,
+        "RewardforEpisode": 510.0
+    },
+    {
+        "TrainingEpisodeNumber": 53,
+        "TotalAverageReward": 447.39622641509436,
+        "RewardforEpisode": 507.0
+    },
+    {
+        "TrainingEpisodeNumber": 54,
+        "TotalAverageReward": 448.5740740740741,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 55,
+        "TotalAverageReward": 449.6363636363636,
+        "RewardforEpisode": 507.0
+    },
+    {
+        "TrainingEpisodeNumber": 56,
+        "TotalAverageReward": 450.76785714285717,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 57,
+        "TotalAverageReward": 433.89473684210526,
+        "RewardforEpisode": -511.0
+    },
+    {
+        "TrainingEpisodeNumber": 58,
+        "TotalAverageReward": 435.2586206896552,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 59,
+        "TotalAverageReward": 436.5762711864407,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 60,
+        "TotalAverageReward": 437.75,
+        "RewardforEpisode": 507.0
+    },
+    {
+        "TrainingEpisodeNumber": 61,
+        "TotalAverageReward": 438.95081967213116,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 62,
+        "TotalAverageReward": 423.66129032258067,
+        "RewardforEpisode": -509.0
+    },
+    {
+        "TrainingEpisodeNumber": 63,
+        "TotalAverageReward": 424.984126984127,
+        "RewardforEpisode": 507.0
+    },
+    {
+        "TrainingEpisodeNumber": 64,
+        "TotalAverageReward": 426.328125,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 65,
+        "TotalAverageReward": 427.66153846153844,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 66,
+        "TotalAverageReward": 428.92424242424244,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 67,
+        "TotalAverageReward": 430.14925373134326,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 68,
+        "TotalAverageReward": 431.3382352941176,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 69,
+        "TotalAverageReward": 432.4927536231884,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 70,
+        "TotalAverageReward": 433.6142857142857,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 71,
+        "TotalAverageReward": 434.7042253521127,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 72,
+        "TotalAverageReward": 435.7638888888889,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 73,
+        "TotalAverageReward": 436.7671232876712,
+        "RewardforEpisode": 509.0
+    },
+    {
+        "TrainingEpisodeNumber": 74,
+        "TotalAverageReward": 437.7972972972973,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 75,
+        "TotalAverageReward": 438.7733333333333,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 76,
+        "TotalAverageReward": 439.75,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 77,
+        "TotalAverageReward": 440.7012987012987,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 78,
+        "TotalAverageReward": 441.62820512820514,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 79,
+        "TotalAverageReward": 442.50632911392404,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 80,
+        "TotalAverageReward": 443.3125,
+        "RewardforEpisode": 507.0
+    },
+    {
+        "TrainingEpisodeNumber": 81,
+        "TotalAverageReward": 444.17283950617286,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 82,
+        "TotalAverageReward": 445.0121951219512,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 83,
+        "TotalAverageReward": 445.8072289156627,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 84,
+        "TotalAverageReward": 446.5833333333333,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 85,
+        "TotalAverageReward": 447.36470588235295,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 86,
+        "TotalAverageReward": 448.1046511627907,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 87,
+        "TotalAverageReward": 448.82758620689657,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 88,
+        "TotalAverageReward": 449.53409090909093,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 89,
+        "TotalAverageReward": 450.2022471910112,
+        "RewardforEpisode": 509.0
+    },
+    {
+        "TrainingEpisodeNumber": 90,
+        "TotalAverageReward": 450.8777777777778,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 91,
+        "TotalAverageReward": 451.53846153846155,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 92,
+        "TotalAverageReward": 452.20652173913044,
+        "RewardforEpisode": 513.0
+    },
+    {
+        "TrainingEpisodeNumber": 93,
+        "TotalAverageReward": 452.81720430107526,
+        "RewardforEpisode": 509.0
+    },
+    {
+        "TrainingEpisodeNumber": 94,
+        "TotalAverageReward": 453.43617021276594,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 95,
+        "TotalAverageReward": 454.0315789473684,
+        "RewardforEpisode": 510.0
+    },
+    {
+        "TrainingEpisodeNumber": 96,
+        "TotalAverageReward": 454.6041666666667,
+        "RewardforEpisode": 509.0
+    },
+    {
+        "TrainingEpisodeNumber": 97,
+        "TotalAverageReward": 455.16494845360825,
+        "RewardforEpisode": 509.0
+    },
+    {
+        "TrainingEpisodeNumber": 98,
+        "TotalAverageReward": 455.734693877551,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 99,
+        "TotalAverageReward": 456.2929292929293,
+        "RewardforEpisode": 511.0
+    },
+    {
+        "TrainingEpisodeNumber": 100,
+        "TotalAverageReward": 456.86,
+        "RewardforEpisode": 513.0
+    }
+]
